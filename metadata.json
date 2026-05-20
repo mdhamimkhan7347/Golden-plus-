@@ -1,0 +1,6 @@
+{
+  "name": "Golden Plus",
+  "description": "A professional coaching center management app with student/teacher directories, parents contacts, updates/conversation feed, notice boards, and payment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
